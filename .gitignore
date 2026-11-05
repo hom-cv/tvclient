@@ -1,38 +1,19 @@
-<<<<<<< Updated upstream
-# Virtual environments
-=======
->>>>>>> Stashed changes
 .venv/
 venv/
 env/
 
-<<<<<<< Updated upstream
-# Python bytecode and caches
-=======
->>>>>>> Stashed changes
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 
-<<<<<<< Updated upstream
-# Packaging and coverage output
-=======
->>>>>>> Stashed changes
 *.egg-info/
 build/
 dist/
 .coverage
 htmlcov/
 
-<<<<<<< Updated upstream
-# Generated rollout logs
 rollouts/
 
-# macOS
-=======
-rollouts/
-
->>>>>>> Stashed changes
 .DS_Store
